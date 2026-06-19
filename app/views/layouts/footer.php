@@ -35,6 +35,11 @@
   </div>
 </footer>
 
+
+<script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2026/05/14/17/20260514174127-E5E38XS8.js" defer></script>
+    
+
 <script src="<?= BASE_URL ?>/js/main.js"></script>
 </body>
 </html>
