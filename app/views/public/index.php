@@ -14,7 +14,7 @@
   <h1>ACTIVIDADES</h1>
   <div class="carrusel">
     <div class="card"><div class="card-label">Virtual</div></div>
-    <div class="card"><div class="card-label">Presencial</div></div>
+    <div class="card"><div class="card-label">Presencialidad</div></div>
     <div class="card"><div class="card-label">Idiomas</div></div>
     <div class="card"><div class="card-label">Empresarial</div></div>
   </div>
